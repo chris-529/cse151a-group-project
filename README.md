@@ -32,7 +32,8 @@ We found our test accuracy to be 0.766, while our training accuracy was 0.762, s
 #4: Where does your model fit in the fitting graph? and What are the next models you are thinking of and why?
 Our model fits on the very left side, as evident by the fact that our test and training accuracy are essentially equal. This indicates our model is underfitting. We are thinking of tying out a logistic regression and naive bayes because our recall is 0
 
-# 5: Our jupyter notebook is on this repo locally as milestone3.ipynb but we also have a Google colab set up for it: https://colab.research.google.com/drive/16FCSKdOQAi7UqrjR4zN4H9yZvxkhOWjW?usp=sharing
+# 5: 
+Our jupyter notebook is on this repo locally as milestone3.ipynb but we also have a Google colab set up for it: https://colab.research.google.com/drive/16FCSKdOQAi7UqrjR4zN4H9yZvxkhOWjW?usp=sharing
 
 # 6 Conclusion section: What is the conclusion of your 1st model? What can be done to possibly improve it?
 The conclusion of our 1st model is that it seems to always be predicting "unhealthy." This might be due to highly overlapping features between the two classes. One possible solution to this phenomenon is to increase the C (regularization) value to penalize the model when it guesses wrong. We hope that this encourages the model to predict healthy in more cases. We want to try oversampling as well since our data set is quite unbalanced, and SVMs do not like unbalanced data.
