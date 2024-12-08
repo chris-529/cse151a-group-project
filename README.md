@@ -469,9 +469,10 @@ Contributions
 ## Name: Tyler Le, Title: Group Member
 
 Contributions
-- g
+- Participated in meetings and discussions about project structure and where to go next
+- Assisted with development and debugging when it was being live shared
+- Contributed to the preprocessing steps used for model training
  
-
 ## Name: Andrew Tan, Title: Group Member
 
 Contributions
