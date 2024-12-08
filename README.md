@@ -472,6 +472,7 @@ Contributions
 - Participated in meetings and discussions about project structure and where to go next
 - Assisted with development and debugging when it was being live shared
 - Contributed to the preprocessing steps used for model training
+- Provided feedback and minor contributions to writeup for each milestone
  
 ## Name: Andrew Tan, Title: Group Member
 
